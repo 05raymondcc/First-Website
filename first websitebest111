@@ -1,0 +1,59 @@
+<!DOCTYPE html> <!-- selects the current version of html -->
+<html> <!-- marks the beginning and end of your HTML code -->
+<head> <!-- contains things for your web browser to think about -->
+	
+	<title>First Website</title> 
+	<style> <!-- css code to style our site-->
+	h1 {
+		font-size: 100pt;
+		color: green;
+	}
+	
+	p {
+		font-size: 18pt;
+		color: lavender;
+		background-color: black;
+		}
+	</style>
+</head> 
+
+<body> <!-- Body contains content  -->
+
+
+<h1>Raymond Chen</h1>
+
+<p>Hello, I am Raymond Chen, I enjoy making YouTube videos because I can express myself more freely on the 
+internet and chat with users(perhaps fans) that watches my videos!
+</p>
+<p>
+I love playing Minecraft, because there are infinite possiblities and people can be as creative as possible
+in their worlds. The soundtracks in the game are good, and the textures are simple and clean.
+</p>
+
+<h2>Things I like</h2>
+<ol>
+<li>Minecraft</li>
+<li>osu!</li>
+<li>CS:GO</li>
+<li>Every Rhythm Game that exists in the world</li>
+</ol>
+<h2>Things I don't like</h2>
+<ul>
+<li>Terraria</li>
+<li>Every budget mobile game with tons of ads that lasts for 30 seconds</li>
+</ul>
+
+ <p>Link to: <a href="https://www.reddit.com/">a website</a > I think is great </p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLeGwBOHjIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+<img src="yes.JPG">
+</body>
+
+</html> 
